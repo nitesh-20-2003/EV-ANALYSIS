@@ -12,3 +12,5 @@ This project involves the creation of an interactive dashboard to analyze electr
 ## Technologies Used
 
 Tableau: Used for creating the interactive dashboard and visualizations. Data Source: The dataset used includes various parameters related to electric vehicles, such as sales figures, model types, and geographical distribution.
+## Dashboard
+![Dashboard](./Screenshot From 2025-07-17 00-00-35.png)
